@@ -69,6 +69,7 @@ I'm a seasoned Full-Stack Web Developer who loves building fast, secure, and sca
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rspec/rspec-original.svg" alt="RSpec" width="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpunit/phpunit-original.svg" alt="PHPUnit" width="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypress/cypress-plain.svg" alt="Cypress" width="100"/>
+  <lottie-player src="https://assets.lottiefiles.com/…/tailwind.json" background="transparent" speed="1" loop autoplay style="width:100px; height:100px;"></lottie-player>
 </p>
 
 ---
