@@ -43,6 +43,22 @@ I'm a seasoned Full-Stack Web Developer who loves building fast, secure, and sca
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
+<h3 align="center">💻 Tech Stack</h3>
+<p align="center">
+  <!-- Animated or static icons -->
+  <img src="https://giphy.com/embed/X_logo_nodejs.gif" alt="Node.js" width="100" />
+  <img src="https://giphy.com/embed/R_rails.gif" alt="Rails" width="100" />
+  <img src="https://giphy.com/embed/php-logo.gif" alt="PHP" width="100" />
+  <img src="https://giphy.com/embed/laravel-logo.gif" alt="Laravel" width="100" />
+  <img src="https://giphy.com/embed/react-logo.gif" alt="React" width="100" />
+  <img src="https://giphy.com/embed/vuejs-logo.gif" alt="Vue.js" width="100" />
+  <img src="https://giphy.com/embed/angular-logo.gif" alt="Angular" width="100" />
+  <img src="https://giphy.com/embed/aws-logo.gif" alt="AWS" width="100" />
+  <img src="https://giphy.com/embed/firebase-logo.gif" alt="Firebase" width="100" />
+  <img src="https://giphy.com/embed/docker-logo.gif" alt="Docker" width="100" />
+  <img src="https://giphy.com/embed/github-actions-logo.gif" alt="GitHub Actions" width="100" />
+</p>
+
 ---
 
 📫 **Let’s connect** or build something impactful together.
