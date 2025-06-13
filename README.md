@@ -58,7 +58,7 @@ I'm a seasoned Full-Stack Web Developer who loves building fast, secure, and sca
   <!-- Testing -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rspec/rspec-original.svg" alt="RSpec" width="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpunit/phpunit-original.svg" alt="PHPUnit" width="100"/>
+  <img src="https://www.svgrepo.com/show/373974/phpunit.svg" alt="PHPUnit" width="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" alt="Cypress" width="100"/>
 
   <!-- Tools -->
