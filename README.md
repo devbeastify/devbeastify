@@ -45,14 +45,30 @@ I'm a seasoned Full-Stack Web Developer who loves building fast, secure, and sca
 
 <h3 align="center">💻 Tech Stack</h3>
 <p align="center">
-  <!-- Node.js (animated) -->
+  <!-- Backend -->
   <img src="https://img.icons8.com/nolan/animated/nodejs.png" alt="Node.js" width="100"/>
-
-  <!-- Ruby on Rails (static fallback) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" width="100"/>
-
-  <!-- PHP (static fallback) -->
+  <img src="https://img.icons8.com/nolan/animated/ruby-on-rails.png" alt="Ruby on Rails" width="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="100"/>
+  <img src="https://img.icons8.com/nolan/animated/laravel.png" alt="Laravel" width="100"/>
+
+  <!-- Frontend -->
+  <img src="https://img.icons8.com/nolan/animated/react-native.png" alt="React" width="100"/>
+  <img src="https://img.icons8.com/nolan/animated/vue-js.png" alt="Vue.js" width="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="100"/>
+
+  <!-- Cloud & DevOps -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="100"/>
+  <img src="https://img.icons8.com/nolan/animated/google-firebase-console.png" alt="Firebase" width="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" width="100"/>
+
+  <!-- Testing -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rspec/rspec-original.svg" alt="RSpec" width="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpunit/phpunit-original.svg" alt="PHPUnit" width="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypress/cypress-plain.svg" alt="Cypress" width="100"/>
 </p>
 
 ---
