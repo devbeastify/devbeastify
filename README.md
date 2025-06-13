@@ -34,42 +34,35 @@ I'm a seasoned Full-Stack Web Developer who loves building fast, secure, and sca
 
 <a><h2>💻 Prefered Technical</h2></a>
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-  <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100">
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-</p>
-
-<h3 align="center">💻 Tech Stack</h3>
-<p align="center">
   <!-- Backend -->
-  <img src="https://img.icons8.com/nolan/animated/nodejs.png" alt="Node.js" width="100"/>
-  <img src="https://img.icons8.com/nolan/animated/ruby-on-rails.png" alt="Ruby on Rails" width="100"/>
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100" alt="Node.js">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" width="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="100"/>
   <img src="https://img.icons8.com/nolan/animated/laravel.png" alt="Laravel" width="100"/>
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" alt="Python">
 
   <!-- Frontend -->
-  <img src="https://img.icons8.com/nolan/animated/react-native.png" alt="React" width="100"/>
-  <img src="https://img.icons8.com/nolan/animated/vue-js.png" alt="Vue.js" width="100"/>
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" alt="JS">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" alt="React">
+  <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100" alt="Vue">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="100"/>
 
   <!-- Cloud & DevOps -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="100"/>
-  <img src="https://img.icons8.com/nolan/animated/google-firebase-console.png" alt="Firebase" width="100"/>
+  <img src="https://img.icons8.com/color/100/amazon-web-services.png" alt="AWS" width="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" width="100"/>
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" alt="Github">
 
   <!-- Testing -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rspec/rspec-original.svg" alt="RSpec" width="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpunit/phpunit-original.svg" alt="PHPUnit" width="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypress/cypress-plain.svg" alt="Cypress" width="100"/>
-  <lottie-player src="https://assets.lottiefiles.com/…/tailwind.json" background="transparent" speed="1" loop autoplay style="width:100px; height:100px;"></lottie-player>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" alt="Cypress" width="100"/>
+
+  <!-- Tools -->
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" alt="VSCode">
 </p>
 
 ---
