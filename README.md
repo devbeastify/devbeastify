@@ -12,7 +12,7 @@ I’m a seasoned full-stack developer with a strong focus on React, Next.js, and
 
 ## What I Do
 
-- **Backend:** Node.js · Java Spring · Ruby on Rails · PHP (Laravel)
+- **Backend:** Node.js · Java Spring · Microservice Architecture · Ruby on Rails · PHP (Laravel)
 - **Frontend:** React · Vue.js · Next.js · TypeScript · Tailwind CSS · Angular
 - **Cloud & DevOps:** AWS (EC2, S3, Lambda, CloudFront) · Firebase · Docker · Supabase
 - **Database:** PostgreSQL · MySQL · Redis
